@@ -13,19 +13,19 @@
 
 <h2>🛠️ Skills</h2>
 <ul>
-<li><h3>Data Analysis:</h3> Expertise in cleaning, processing, and analyzing data to uncover meaningful insights</li>
-<li><h3>Machine Learning:</h3> Proficient in building predictive models for classification and forecasting</li>
-<li><h3>Data Visualization:</h3> Skilled in creating intuitive and informative visualizations using Python libraries and Excel</li>
-<li><h3>SQL:</h3> Experienced in querying and manipulating data for reporting and analysis</li>
+<li>Data Analysis: Expertise in cleaning, processing, and analyzing data to uncover meaningful insights</li>
+<li>Machine Learning: Proficient in building predictive models for classification and forecasting</li>
+<li>Data Visualization: Skilled in creating intuitive and informative visualizations using Python libraries and Excel</li>
+<li>SQL: Experienced in querying and manipulating data for reporting and analysis</li>
 </ul>
 
 <h2>📂 Projects</h2>
 
 Here are some of the projects I've worked on:
 <ul>
-<li><h3>Sales Forecasting:</h3> Developed predictive models using Python and SQL to forecast sales, identify trends, and optimize strategies for retail businesses.<li>
-<li><h3>Customer Classification:</h3> Built a classification model for a retail bank to predict customer subscription to term deposits, leveraging data on demographics and contact details.<li>
-<li><h3>Retail Sales Data Analysis:</h3> Analyzed and reported on sales data using SQL and Excel to provide actionable insights for a retail chain.<li>
+<li>Sales Forecasting: Developed predictive models using Python and SQL to forecast sales, identify trends, and optimize strategies for retail businesses.<li>
+<li>Customer Classification: Built a classification model for a retail bank to predict customer subscription to term deposits, leveraging data on demographics and contact details.<li>
+<li>Retail Sales Data Analysis: Analyzed and reported on sales data using SQL and Excel to provide actionable insights for a retail chain.<li>
 <ul/>
 <h2>📫 Connect with Me</h2>
 <ul>
