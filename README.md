@@ -29,9 +29,8 @@ Here are some of the projects I've worked on:
 <ul/>
   
 <h2>📫 Connect with Me</h2>
-<ul>
-<li>LinkedIn:<a href="URL">linkedin.com/in/dhirajpatilwork1</a><li>
-<li>Email:<a href="URL">dhiraj.patil.work@outlook.com</a></li>
-</ul>
+
+LinkedIn:<a href="URL">linkedin.com/in/dhirajpatilwork1</a>
+Email:<a href="URL">dhiraj.patil.work@outlook.com</a>
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. I’m always open to discussing data science projects, collaboration, and learning opportunities!
