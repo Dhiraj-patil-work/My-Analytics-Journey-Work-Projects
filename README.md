@@ -24,8 +24,9 @@
 Here are some of the projects I've worked on:
 <ul>
 <li>Sales Forecasting: Developed predictive models using Python and SQL to forecast sales, identify trends, and optimize strategies for retail businesses.<li>
+<a href="URL">https://github.com/Dhiraj-patil-work/Spark-Ecommerce-Sales-Dashboard.git</a>
 <li>Customer Classification: Built a classification model for a retail bank to predict customer subscription to term deposits, leveraging data on demographics and contact details.<li>
-<li>Retail Sales Data Analysis: Analyzed and reported on sales data using SQL and Excel to provide actionable insights for a retail chain.<li>
+  <a href="URL">https://github.com/Dhiraj-patil-work/-Customer-Term-Deposit-Subscription-Prediction-.git</a>
 <ul/>
   
 <h2>📫 Connect with Me</h2>
