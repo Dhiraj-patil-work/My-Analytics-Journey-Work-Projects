@@ -27,9 +27,11 @@ Here are some of the projects I've worked on:
 <li>Customer Classification: Built a classification model for a retail bank to predict customer subscription to term deposits, leveraging data on demographics and contact details.<li>
 <li>Retail Sales Data Analysis: Analyzed and reported on sales data using SQL and Excel to provide actionable insights for a retail chain.<li>
 <ul/>
+  
 <h2>📫 Connect with Me</h2>
 <ul>
 <li>LinkedIn:<a href="URL">linkedin.com/in/dhirajpatilwork1</a><li>
 <li>Email:<a href="URL">dhiraj.patil.work@outlook.com</a></li>
 </ul>
+
 Thanks for stopping by! Feel free to explore my repositories and connect with me. I’m always open to discussing data science projects, collaboration, and learning opportunities!
