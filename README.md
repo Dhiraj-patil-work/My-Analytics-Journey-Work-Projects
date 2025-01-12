@@ -24,7 +24,7 @@
 Here are some of the projects I've worked on:
 <ul>
 <li>Sports Analytics Using SQL-This project explores IPL (Indian Premier League) cricket data using SQL to gain meaningful insights. The analysis involves two datasets: one with match-level information and the other with ball-by-ball details. This project is ideal for those looking to understand the role of SQL in sports analytics.<li>
-<a href="URL">(https://github.com/Dhiraj-patil-work/Sports-Analytics-Using-SQL.git)</a>
+<a href="URL">https://github.com/Dhiraj-patil-work/Sports-Analytics-Using-SQL.git</a>
 <li>Customer Classification: Built a classification model for a retail bank to predict customer subscription to term deposits, leveraging data on demographics and contact details.<li>
   <a href="URL">https://github.com/Dhiraj-patil-work/-Customer-Term-Deposit-Subscription-Prediction-.git</a>
 <ul/>
