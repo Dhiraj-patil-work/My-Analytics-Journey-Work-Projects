@@ -14,37 +14,35 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong back
 - **Advanced Statistical Methods**
 
 ## 💬 Ask Me About:
+- MySQL and PosgredSQL.
+- PowerBI and Tableau.
+- Advance Excel.
 - Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)
-- Machine Learning (Scikit-Learn, TensorFlow, PyTorch)
+- Machine Learning (Scikit-Learn)
 - Statistical Modeling
 - Big Data Technologies (Spark, Hadoop)
 - Data Engineering
 
 ## 📫 How to Reach Me:
-- **Email:** [dhiraj.patil@example.com](mailto:dhiraj.patil@example.com)
-- **LinkedIn:** [Dhiraj Patil](https://www.linkedin.com/in/dhiraj-patil/)
-- **Twitter:** [@dhiraj_patil](https://twitter.com/dhiraj_patil)
+- **Email:** [dhirajpatil6310@example.com](mailto:dhirajpatil6310@example.com)
+- **LinkedIn:** [Dhiraj Patil](https://www.linkedin.com/in/dhirajpatilwork1/)
 
 ## ⚡ Fun Fact:
 - I enjoy playing with data and uncovering hidden patterns. In my free time, I love hiking and exploring nature.
 
 ## 🛠️ Languages and Tools:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-- ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-009688?style=flat&logo=matplotlib&logoColor=white)
 
-## 🏆 GitHub Stats:
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiraj-patil-work&show_icons=true&theme=radical)
 
 ## 📈 Highlight Projects:
-- [**Project 1: Sales Forecasting**](https://github.com/Dhiraj-patil-work/sales-forecasting): Developed a time series model to forecast sales using historical data.
-- [**Project 2: Customer Segmentation**](https://github.com/Dhiraj-patil-work/customer-segmentation): Implemented clustering algorithms to segment customers based on purchasing behavior.
-- [**Project 3: Sentiment Analysis**](https://github.com/Dhiraj-patil-work/sentiment-analysis): Built a sentiment analysis model to analyze customer reviews.
+- [**Project 1: Sports-Analytics-Using-SQL**](https://github.com/Dhiraj-patil-work/Sports-Analytics-Using-SQL.git): This project is ideal for those looking to understand the role of SQL 
+   in sports analytics.
+- [**Project 2: Airbnb Listings SQL Project**](https://github.com/Dhiraj-patil-work/Airbnb-Listings-SQL-Project.git): This project contains SQL queries for analyzing Airbnb listings data.
+- [**Project 3: HR Analytics Project**](https://github.com/Dhiraj-patil-work/HR-Analytics_Dashboard.git): BThe primary objective of this project is to assist an organization in improving 
+   employee performance and enhancing employee retention by reducing attrition rates.
+- [**Project 4: Sentiment Analysis**](https://github.com/Dhiraj-patil-work/sentiment-analysis): Built a sentiment analysis model to analyze customer reviews.
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
