@@ -1,32 +1,29 @@
-<title>Dhiraj Patil - Data Analyst Portfolio</title>
- </head>
- <body>
-     <h1>💡 Dhiraj Patil – Data Analyst Portfolio</h1>
+<h1>💡 Dhiraj Patil – Data Analyst Portfolio</h1>
     
-     <h2>📌 About Me</h2>
-     <p>Hello! I’m <strong>Dhiraj Patil</strong>, a passionate <strong>Data Analyst</strong> with expertise in <strong>SQL, Python, Power BI, Tableau, and Advanced Excel</strong>. I specialize in <strong>data visualization, business intelligence, predictive analytics, and machine learning</strong>. My focus is on extracting actionable insights, building interactive dashboards, and optimizing business processes using data-driven decision-making.</p>
+<h2>📌 About Me</h2>
+    <p>Hello! I’m <strong>Dhiraj Patil</strong>, a passionate <strong>Data Analyst</strong> with expertise in <strong>SQL, Python, Power BI, Tableau, and Advanced Excel</strong>. I specialize in <strong>data visualization, business intelligence, predictive analytics, and machine learning</strong>. My focus is on extracting actionable insights, building interactive dashboards, and optimizing business processes using data-driven decision-making.</p>
     
-     <ul>
-         <li><strong>📍 Location:</strong> Pune, India</li>
-         <li><strong>📧 Email:</strong> dhiraj.patil.work@outlook.com</li>
-         <li><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/dhirajpatilwork1">linkedin.com/in/dhirajpatilwork1</a></li>
-         <li><strong>📂 GitHub:</strong> <a href="https://github.com/Dhiraj-patil-work/My-Analytics-Journey-Work-Projects">GitHub Portfolio</a></li>
-     </ul>
+   <ul>
+        <li><strong>📍 Location:</strong> Pune, India</li>
+        <li><strong>📧 Email:</strong> dhiraj.patil.work@outlook.com</li>
+        <li><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/dhirajpatilwork1">linkedin.com/in/dhirajpatilwork1</a></li>
+        <li><strong>📂 GitHub:</strong> <a href="https://github.com/Dhiraj-patil-work/My-Analytics-Journey-Work-Projects">GitHub Portfolio</a></li>
+   </ul>
     
-     <h2>🚀 Skills & Technologies</h2>
-     <ul>
+<h2>🚀 Skills & Technologies</h2>
+    <ul>
          <li><strong>Programming & Data Handling:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (MySQL, PostgreSQL, Joins, CTEs, Query Optimization, ETL)</li>
          <li><strong>Analytics & Machine Learning:</strong> Hypothesis Testing, Regression, Clustering, A/B Testing, Time Series Forecasting, Feature Engineering</li>
          <li><strong>Data Visualization & BI:</strong> Power BI (DAX, Power Query, Dashboards, KPI Tracking), Tableau, Advanced Excel (Pivot Tables, Power Query, VBA, Macros)</li>
-     </ul>
+    </ul>
     
-     <h2>📊 Projects</h2>
-     <h3>🎵 Music Popularity Prediction</h3>
-     <ul>
+ <h2>📊 Projects</h2>
+   <h3>🎵 Music Popularity Prediction</h3>
+    <ul>
          <li>Developed a <strong>Random Forest Regression model</strong> to predict music track popularity.</li>
          <li>Conducted <strong>EDA and feature selection</strong> to improve prediction accuracy.</li>
          <li><strong>Tools:</strong> Python, Pandas, NumPy, Scikit-Learn</li>
-     </ul>
+    </ul>
     
      <h3>🏦 Loan Approval Prediction</h3>
      <ul>
