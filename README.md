@@ -1,48 +1,87 @@
-# Hi there, I'm Dhiraj Patil! 👋
+<title>Dhiraj Patil - Data Analyst Portfolio</title>
+ </head>
+ <body>
+     <h1>💡 Dhiraj Patil – Data Analyst Portfolio</h1>
+    
+     <h2>📌 About Me</h2>
+     <p>Hello! I’m <strong>Dhiraj Patil</strong>, a passionate <strong>Data Analyst</strong> with expertise in <strong>SQL, Python, Power BI, Tableau, and Advanced Excel</strong>. I specialize in <strong>data visualization, business intelligence, predictive analytics, and machine learning</strong>. My focus is on extracting actionable insights, building interactive dashboards, and optimizing business processes using data-driven decision-making.</p>
+    
+     <ul>
+         <li><strong>📍 Location:</strong> Pune, India</li>
+         <li><strong>📧 Email:</strong> dhiraj.patil.work@outlook.com</li>
+         <li><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/dhirajpatilwork1">linkedin.com/in/dhirajpatilwork1</a></li>
+         <li><strong>📂 GitHub:</strong> <a href="https://github.com/Dhiraj-patil-work/My-Analytics-Journey-Work-Projects">GitHub Portfolio</a></li>
+     </ul>
+    
+     <h2>🚀 Skills & Technologies</h2>
+     <ul>
+         <li><strong>Programming & Data Handling:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (MySQL, PostgreSQL, Joins, CTEs, Query Optimization, ETL)</li>
+         <li><strong>Analytics & Machine Learning:</strong> Hypothesis Testing, Regression, Clustering, A/B Testing, Time Series Forecasting, Feature Engineering</li>
+         <li><strong>Data Visualization & BI:</strong> Power BI (DAX, Power Query, Dashboards, KPI Tracking), Tableau, Advanced Excel (Pivot Tables, Power Query, VBA, Macros)</li>
+     </ul>
+    
+     <h2>📊 Projects</h2>
+     <h3>🎵 Music Popularity Prediction</h3>
+     <ul>
+         <li>Developed a <strong>Random Forest Regression model</strong> to predict music track popularity.</li>
+         <li>Conducted <strong>EDA and feature selection</strong> to improve prediction accuracy.</li>
+         <li><strong>Tools:</strong> Python, Pandas, NumPy, Scikit-Learn</li>
+     </ul>
+    
+     <h3>🏦 Loan Approval Prediction</h3>
+     <ul>
+         <li>Built an <strong>SVM classification model</strong> to automate loan approvals.</li>
+         <li>Applied <strong>feature engineering</strong> for enhanced model performance.</li>
+         <li><strong>Tools:</strong> Python, Scikit-Learn</li>
+     </ul>
+    
+     <h3>🏏 IPL Sports Analytics</h3>
+     <ul>
+         <li>Analyzed <strong>match and player performance trends</strong> using PostgreSQL.</li>
+         <li><strong>Tools:</strong> SQL (PostgreSQL)</li>
+     </ul>
+    
+     <h3>🏠 Airbnb Listings Analysis</h3>
+     <ul>
+         <li>Conducted <strong>occupancy rate and revenue forecasting</strong> using SQL queries.</li>
+         <li><strong>Tools:</strong> SQL (MySQL)</li>
+     </ul>
+    
+     <h3>📊 HR Analytics Dashboard</h3>
+     <ul>
+         <li>Designed a <strong>Power BI dashboard</strong> to analyze <strong>employee attrition and workforce productivity</strong>.</li>
+         <li><strong>Tools:</strong> Power BI</li>
+     </ul>
+    
+     <h3>🛒 E-Commerce Sales Dashboard</h3>
+     <ul>
+         <li>Developed a <strong>Power BI dashboard</strong> to track <strong>customer segmentation and sales trends</strong>.</li>
+         <li><strong>Tools:</strong> Power BI</li>
+     </ul>
+    
+     <h2>🎓 Education & Certifications</h2>
+     <ul>
+         <li><strong>🎓 MBA – Business Analytics & Finance</strong>, Idyllic Institute of Management, D.A.V.V. University, Indore (2021-2024)</li>
+         <li><strong>🎓 B.Com</strong>, Renuka Institute of Management and Science, Sendhwa (2019-2021)</li>
+     </ul>
+    
+     <ul>
+         <li><strong>📜 Master in Data Science & Analytics with AI</strong> – IT-Vedant, Pune (Oct 2024)</li>
+         <li><strong>📜 Data Analysis with Python</strong> – IBM (Sep 2024)</li>
+         <li><strong>📜 SQL for Data Analytics</strong> – (Jan 2025)</li>
+     </ul>
+    
+     <h2>📌 Let's Connect!</h2>
+     <p>If you’re interested in <strong>collaborating on data projects, discussing insights, or exploring job opportunities</strong>, feel free to connect with me!</p>
+    
+     <ul>
+         <li><strong>📩 Email:</strong> dhiraj.patil.work@outlook.com</li>
+         <li><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/dhirajpatilwork1">linkedin.com/in/dhirajpatilwork1</a></li>
+         <li><strong>📂 GitHub:</strong> <a href="https://github.com/Dhiraj-patil-work/My-Analytics-Journey-Work-Projects">GitHub Portfolio</a></li>
+     </ul>
+    
+    <h3>📊 Let’s turn data into insights! 🚀</h3>
+ </body>
+ </html>
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Here's a little bit about me:
 
-## 🔭 What I'm Currently Working On:
-- **Data Science Projects:** Developing machine learning models and analyzing large datasets to uncover insights.
-- **Open Source Contributions:** Contributing to open source data science projects and collaborating with the community.
-- **Learning:** Continuously expanding my knowledge in advanced machine learning techniques and big data technologies.
-
-## 🌱 What I'm Learning:
-- **Deep Learning with TensorFlow and PyTorch**
-- **Big Data Technologies like Apache Spark and Hadoop**
-- **Natural Language Processing (NLP)**
-- **Advanced Statistical Methods**
-
-## 💬 Ask Me About:
-- MySQL and PosgredSQL.
-- PowerBI and Tableau.
-- Advance Excel.
-- Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)
-- Machine Learning (Scikit-Learn)
-- Statistical Modeling
-- Big Data Technologies (Spark, Hadoop)
-- Data Engineering
-
-## 📫 How to Reach Me:
-- **Email:** [dhirajpatil6310@example.com](mailto:dhirajpatil6310@example.com)
-- **LinkedIn:** [Dhiraj Patil](https://www.linkedin.com/in/dhirajpatilwork1/)
-
-## ⚡ Fun Fact:
-- I enjoy playing with data and uncovering hidden patterns. In my free time, I love hiking and exploring nature.
-
-## 🛠️ Languages and Tools:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-009688?style=flat&logo=matplotlib&logoColor=white)
-
-
-## 📈 Highlight Projects:
-- [**Project 1: Sports-Analytics-Using-SQL**](https://github.com/Dhiraj-patil-work/Sports-Analytics-Using-SQL.git): This project is ideal for those looking to understand the role of SQL 
-   in sports analytics.
-- [**Project 2: Airbnb Listings SQL Project**](https://github.com/Dhiraj-patil-work/Airbnb-Listings-SQL-Project.git): This project contains SQL queries for analyzing Airbnb listings data.
-- [**Project 3: HR Analytics Project**](https://github.com/Dhiraj-patil-work/HR-Analytics_Dashboard.git): BThe primary objective of this project is to assist an organization in improving 
-   employee performance and enhancing employee retention by reducing attrition rates.
-- [**Project 4: Sentiment Analysis**](https://github.com/Dhiraj-patil-work/sentiment-analysis): Built a sentiment analysis model to analyze customer reviews.
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
