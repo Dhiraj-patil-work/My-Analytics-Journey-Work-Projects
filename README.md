@@ -57,25 +57,25 @@
     </ul>
     
 <h2>🎓 Education & Certifications</h2>
-    <ul>
+<ul>
          <li><strong>🎓 MBA – Business Analytics & Finance</strong>, Idyllic Institute of Management, D.A.V.V. University, Indore (2021-2024)</li>
          <li><strong>🎓 B.Com</strong>, Renuka Institute of Management and Science, Sendhwa (2019-2021)</li>
-    </ul>
+</ul>
     
-    <ul>
+<ul>
          <li><strong>📜 Master in Data Science & Analytics with AI</strong> – IT-Vedant, Pune (Oct 2024)</li>
          <li><strong>📜 Data Analysis with Python</strong> – IBM (Sep 2024)</li>
          <li><strong>📜 SQL for Data Analytics</strong> – (Jan 2025)</li>
-    </ul>
+</ul>
     
 <h2>📌 Let's Connect!</h2>
     <p>If you’re interested in <strong>collaborating on data projects, discussing insights, or exploring job opportunities</strong>, feel free to connect with me!</p>
     
-    <ul>
+<ul>
          <li><strong>📩 Email:</strong> dhiraj.patil.work@outlook.com</li>
          <li><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/dhirajpatilwork1">linkedin.com/in/dhirajpatilwork1</a></li>
          <li><strong>📂 GitHub:</strong> <a href="https://github.com/Dhiraj-patil-work/My-Analytics-Journey-Work-Projects">GitHub Portfolio</a></li>
-    </ul>
+</ul>
     
 <h3>📊 Let’s turn data into insights! 🚀</h3>
  </body>
